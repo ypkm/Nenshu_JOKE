@@ -10,5 +10,5 @@ elsif income >= 300 && income < 400
 elsif income >= 400 && income < 500
 	puts "ごはんに行きましょう。おごられてあげる。"
 else
-	 puts "あなたのこと、いいと思ってたの"
+	puts "あなたのこと、いいと思ってたの"
 end
